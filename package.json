@@ -1,0 +1,46 @@
+{
+  "name": "tictactoe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "history": "^4.6.3",
+    "material-ui": "alpha",
+    "material-ui-icons": "^1.0.0-alpha.19",
+    "normalizr": "^3.2.3",
+    "prop-types": "^15.5.10",
+    "ramda": "^0.24.1",
+    "ramda-fantasy": "^0.8.0",
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-apollo": "^1.4.3",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "react-router-redux": "alpha",
+    "react-scripts": "1.0.10",
+    "recompose": "^0.23.5",
+    "redux": "^3.7.1",
+    "redux-auth-wrapper": "^1.1.0",
+    "redux-form": "^6.8.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^4.8.2",
+    "redux-saga": "^0.15.4",
+    "redux-thunk": "^2.2.0",
+    "reduxsauce": "^0.5.0",
+    "reselect": "^3.0.1",
+    "typeface-roboto": "^0.0.31",
+    "uuid": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": ">=6.11.0 < 8.2",
+    "yarn": ">=0.23.4",
+    "npm": ">=3.x"
+  }
+}

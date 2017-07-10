@@ -1,0 +1,10 @@
+.Login-page{
+    display: flex;
+    justify-content: center;
+    height:100%;
+}
+
+.Login-form{
+    align-self: center;
+    min-width: 350px;
+}

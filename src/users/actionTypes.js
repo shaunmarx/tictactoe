@@ -1,0 +1,5 @@
+export const TOGGLE_USER_DIALOG = 'session/TOGGLE_USER_DIALOG';
+
+export const CREATE_USER_REQUEST = 'session/CREATE_USER_REQUEST';
+export const CREATE_USER_SUCCESS = 'session/CREATE_USER_SUCCESS';
+export const CREATE_USER_FAILURE = 'session/CREATE_USER_FAILURE';
